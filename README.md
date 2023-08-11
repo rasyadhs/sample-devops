@@ -1,1 +1,4 @@
 # sample-devops
+
+-Jenkins
+-Kubernetes
